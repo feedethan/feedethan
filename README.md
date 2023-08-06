@@ -4,9 +4,9 @@
 - 🔍 enjoys playing with new things every day
 - 📫 How to reach me? starjs@qq.com
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luzhenqian&show_icons=true&theme=gotham" alt="noah lu" /> </p> -->
-<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzhenqian" alt="noah lu" /> </p> -->
-<!-- <p align="center"> <img src="https://leetcard.jacoblin.cool/NoahLu98?theme=light&font=Lora" alt="noah lu" /> </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yolo2048&show_icons=true&theme=gotham" alt="noah lu" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yolo2048" /> </p>
+<!-- <p align="center"> <img src="https://leetcard.jacoblin.cool/yolo2048?theme=light&font=Lora"  /> </p> -->
 
 ### Things I use while working!
 <p>
@@ -221,7 +221,4 @@
 #### 🔍 Search Engines
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-	
-<p align="center">
-	<a href="https://app.daily.dev/LuZhenqian"><img src="https://api.daily.dev/devcards/766321ab05d5474d8e35c9acf750251f.png?r=ih4" width="400" alt=""/></a>
-</p>
+
