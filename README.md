@@ -4,9 +4,9 @@
 - 🔍 enjoys playing with new things every day
 - 📫 How to reach me? starjs@qq.com
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yolo2048&show_icons=true&theme=gotham" alt="noah lu" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yolo2048" /> </p>
-<!-- <p align="center"> <img src="https://leetcard.jacoblin.cool/yolo2048?theme=light&font=Lora"  /> </p> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=feedethan&show_icons=true&theme=gotham" alt="noah lu" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=feedethan" /> </p>
+<!-- <p align="center"> <img src="https://leetcard.jacoblin.cool/feedethan?theme=light&font=Lora"  /> </p> -->
 
 ### Things I use while working!
 <p>
